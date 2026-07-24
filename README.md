@@ -4,8 +4,8 @@ This tutorial introduces PiggyCast, an ensemble machine learning model designed 
 
 The main contributions of this tutorial are:
 
-1. Developing and assessing an ensemble model:** We build and evaluate PiggyCast, a stacking-based ensemble model that leverages forecasts from state-of-the-art weather prediction models (IFS HRES, GraphCast, Pangu Weather, and NeuralGCM) and trains an XGBoost regressor on top of them to produce more accurate predictions of geopotential height at 500 hPa.
-2. Investigating feature importance: We use SHAP (SHapley Additive exPlanations) values to analyze the contribution of each base model's forecast and geographic coordinates to PiggyCast's predictions, providing insights into the model's decision-making process.
+1. **Developing and assessing an ensemble model:** We build and evaluate PiggyCast, a stacking-based ensemble model that leverages forecasts from state-of-the-art weather prediction models (IFS HRES, GraphCast, Pangu Weather, and NeuralGCM) and trains an XGBoost regressor on top of them to produce more accurate predictions of geopotential height at 500 hPa.
+2. **Investigating feature importance:** We use SHAP (SHapley Additive exPlanations) values to analyze the contribution of each base model's forecast and geographic coordinates to PiggyCast's predictions, providing insights into the model's decision-making process.
 
 Author(s):
 - Josiah Kiarie Kimani - African Institute for Mathematical Sciences (AIMS) South Africa.
