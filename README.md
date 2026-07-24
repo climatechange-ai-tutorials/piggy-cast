@@ -17,7 +17,7 @@ Originally presented at the CCAI Tackling Climate Change with Machine Learning W
 
 ## Access this tutorial
 
-We recommend executing this notebook in a Colab environment to gain access to GPUs and to manage all necessary dependencies. <a target="_blank" href="https://colab.research.google.com/drive/1W31BqzM0izzH4jHpt_W2qBVD_cvCGPVI">
+We recommend executing this notebook in a Colab environment to gain access to GPUs and to manage all necessary dependencies. <a target="_blank" href="https://colab.research.google.com/github/climatechange-ai-tutorials/piggy-cast/blob/main/1.3-PiggyCast-AI-Weather-Prediction-Ensemble-Model.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
