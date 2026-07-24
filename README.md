@@ -8,10 +8,10 @@ The main contributions of this tutorial are:
 2. **Investigating feature importance:** We use SHAP (SHapley Additive exPlanations) values to analyze the contribution of each base model's forecast and geographic coordinates to PiggyCast's predictions, providing insights into the model's decision-making process.
 
 Author(s):
-- Josiah Kiarie Kimani - African Institute for Mathematical Sciences (AIMS) South Africa.
-- Oliver Angélil, PhD - Ishango AI, Switzerland
+- Josiah Kiarie Kimani - African Institute for Mathematical Sciences (AIMS) South Africa, [josiah@aims.ac.za](josiah@aims.ac.za)
+- Oliver Angélil, PhD - Ishango AI
 - Chris Toumping Fotso - Ishango AI
-- Steffen Knoblauch - Heidelberg University, Baden-Württemberg, Germany
+- Steffen Knoblauch - Heidelberg University
 
 Originally presented at the CCAI Tackling Climate Change with Machine Learning Workshop at NeurIPS 2025.
 
@@ -38,7 +38,7 @@ Usage of this tutorial is subject to the MIT License.
 ## Cite
 
 ### Plain Text
-Kimani, J., Angélil, O., Toumping, C., and Knoblauch, S. (2026). PiggyCast - Improving Weather Prediction Accuracy through a Stacking-Based Ensemble AI Approach [Tutorial]. In Conference on Neural Information Processing Systems. Climate Change AI.
+Kimani, J., Angélil, O., Toumping, C., and Knoblauch, S. (2026). PiggyCast - Improving Weather Prediction Accuracy through a Stacking-Based Ensemble AI Approach [Tutorial]. In Tackling Climate Change with Machine Learning Workshop at NeurIPS 2025. Climate Change AI.
 
 ### BibTeX
 
@@ -50,7 +50,7 @@ Kimani, J., Angélil, O., Toumping, C., and Knoblauch, S. (2026). PiggyCast - Im
   year={2026},
   organization={Climate Change AI},
   type={Tutorial},
-  booktitle={Conference on Neural Information Processing Systems},
+  booktitle={Tackling Climate Change with Machine Learning Workshop at NeurIPS 2025},
   howpublished={\url{https://github.com/climatechange-ai-tutorials/piggy-cast}}
 }
 ```
